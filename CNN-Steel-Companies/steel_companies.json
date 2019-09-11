@@ -1,0 +1,328 @@
+{
+    "companies":[
+        {
+            "name":"United States Steel Corp",
+            "ticker":"X", 
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Commercial Metals",
+            "ticker":"CMC", 
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Worthington Industries Inc",
+            "ticker":"WOR", 
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Grupo Simec SAB de CV",
+            "ticker":"SIM", 
+            "exchange":"NYSE",
+            "headquarters":"Mexico"
+        },
+        {
+            "name":"Hesteel Co Ltd", 
+            "ticker":"000709",
+            "exchange":"SHE",
+            "headquarters":"China"
+        },
+        {
+            "name":"Hyundai Steel Co., Ltd",
+            "ticker":"004020",
+            "exchange":"KRX",
+            "headquarters":"South Korea"
+        },
+        {
+            "name":"Novolipetsk Steel",
+            "ticker":"NLMK",
+            "exchange":"MCX",
+            "headquarters":"Russia"
+        },
+        {
+            "name":"ArcelorMittal SA",
+            "ticker":"MT",
+            "exchange":"NYSE",
+            "headquarters":"Luxembourg"
+        },
+        {
+            "name":"Baoshan Iron & Steel Co., Ltd.",
+            "ticker":"600019",
+            "exchange":"SHE",
+            "headquarters":"China"
+        },
+        {
+            "name":"China Baowu Steel Corp., Ltd.",
+            "headquarters":"China"
+        },
+        {
+            "name":"Inner Mongolia Baotou Steel Union",
+            "ticker":"600010",
+            "exchange":"SSE",
+            "headquarters":"China"
+        },
+        {
+            "name":"EVRAZ plc",
+            "ticker":"EVR",
+            "exchange":"LSE",
+            "headquarters":"United Kingdom"
+        },
+        {
+            "name":"Magnitogorsk Iron and Steel Works",
+            "ticker":"MMK",
+            "exchange":"LSE",
+            "headquarters":"Russia"
+        },
+        {
+            "name":"ThyssenKrupp",
+            "ticker":"0O1C",
+            "exchange":"LSE",
+            "headquarters":"Germany"
+        },
+        {
+            "name":"CITIC Limited",
+            "ticker":"267",
+            "exchange":"SEHC",
+            "headquarters":"Hong Kong"
+        },
+        {
+            "name":"Severstal",
+            "ticker":"CHMF",
+            "exchange":"MCX",
+            "headquarters":"Russia"
+        },
+        {
+            "name":"Nanjing Iron and Steel Co., Ltd.",
+            "ticker":"600282",
+            "exchange":"SSE",
+            "headquarters":"China"
+        },
+        {
+            "name":"Xinjiang Ba Yi Iron & Steel Co.,Ltd.",
+            "ticker":"600581",
+            "exchange":"SHE",
+            "headquarters":"China"
+        },
+        {
+            "name":"Nippon Steel Corp",
+            "ticker":"5401",
+            "exhange":"TYO",
+            "headquarters":"Japan"
+        },
+        {
+            "name":"JSW Steel Ltd.",
+            "ticker":"JSWSTEEL",
+            "exchange":"NSE",
+            "headquarters":"India"
+        },
+        {
+            "name":"IMIDRO",
+            "headquarters":"Iran"
+        },
+        {
+            "name":"Steel Authority of India Limited",
+            "ticker":"SAIL",
+            "exchange":"NSE",
+            "headquarters":"India"
+        },
+        {
+            "name":"Bengang Steel Plates Co Ltd",
+            "ticker":"000761",
+            "exchange":"SZSE",
+            "headquarters":"China"
+
+        },
+        {
+            "name":"Jianlong Steel",
+            "headquarters":"China"
+        },
+        {
+            "name":"POSCO",
+            "ticker":"PKX",
+            "exchange":"NYSE",
+            "headquarters":"South Korea"
+        },
+        {
+            "name":"Posco International Corp",
+            "ticker":"047050",
+            "exchange":"KRX",
+            "headquarters":"South Korea"
+        },
+        {
+            "name":"Jiangsu Shagang Co Ltd.",
+            "ticker":"002075",
+            "exchange":"SHE",
+            "Currency":"CNY",
+            "headquarters":"China"
+        }, 
+        {
+            "name":"Angang Steel Company",
+            "ticker":"000898",
+            "exchange":"SHE",
+            "headquarters":"China"
+        },
+        {
+            "name":"Hunan Valin Steel",
+            "ticker":"000932",
+            "exchange":"SZSE",
+            "headquarters":"China"
+        },
+        {
+            "name":"JFE Holdings, Inc.",
+            "ticker":"5411",
+            "exchange":"TSE",
+            "headquarters":"Japan"
+        },
+        {
+            "name":"Beijing Shougang Co., Ltd",
+            "ticker":"000959",
+            "exchange":"SZSE",
+            "headquarters":"China"
+        },
+        {
+            "name":"Tata Steel Ltd",
+            "ticker":"TATASTEEL",
+            "exchange":"NSE",
+            "headquarters":"India"
+        },
+        {
+            "name":"AK Steel Holding Corporation",
+            "ticker":"AKS",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Nucor Corporation",
+            "ticker":"NUE",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Allegheny Technologies Incorporated",
+            "ticker":"ATI",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Carpenter Technology Corporation",
+            "ticker":"CRS",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Commercial Metals Company",
+            "ticker":"CMC",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Friedman Industries Inc.",
+            "ticker":"FRD",
+            "exchange":"AMEX",
+            "headquarters":"United States"            
+        },
+        {
+            "name":"Gerdau S.A.",
+            "ticker":"GGB",
+            "exchange":"NYSE",
+            "headquarters":"Brazil"
+        },
+        {
+            "name":"Gibraltar Industries, Inc.",
+            "ticker":"ROCK",
+            "exchange":"NASDAQ-GS",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Haynes International Inc.",
+            "ticker":"HAYN",
+            "exchange":"NASDAQ-GS",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Insteel Industries, Inc.",
+            "ticker":"IIIN",
+            "exchange":"NASDAQ-GS",
+            "headquarters":"United States"
+        },
+        {
+            "name":"China Steel Corporation",
+            "headquarters":"China"
+        },
+        {
+            "name":"Mechel PAO",
+            "ticker":"MTL",
+            "exchange":"NYSE",
+            "headquarters":"Russia"
+        },
+        {
+            "name":"National Steel Company",
+            "ticker":"SID",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Northwest Pipe Company",
+            "ticker":"NWPX",
+            "exchange":"NASDAQ-GS",
+            "headquarters":"United States"            
+        },
+        {
+            "name":"Ossen Innovation Co., Ltd",
+            "ticker":"OSN",
+            "exchange":"NASDAQ-CM",
+            "headquarters":"China"
+        },
+        {
+            "name":"Steel Dynamics, Inc.",
+            "ticker":"STLD",
+            "exchange":"NASDAQ-GS",
+            "headquarters":"United States"
+        },
+        {
+            "name":"SunCoke Energy, Inc.",
+            "ticker":"SXC",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Synalloy Corporation",
+            "ticker":"SYNL",
+            "exchange":"NASDAQ-GM",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Tenaris S.A.",
+            "ticker":"TS",
+            "exchange":"NYSE",
+            "headquarters":"Luxembourg"
+        },
+        {
+            "name":"Ternium S.A.",
+            "ticker":"TX",
+            "exchange":"NYSE",
+            "headquarters":"Luxembourg"            
+        },
+        {
+            "name":"TimkenSteel",
+            "ticker":"TMST",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Titan International, Inc.",
+            "ticker":"TWI",
+            "exchange":"NYSE",
+            "headquarters":"United States"
+        },
+        {
+            "name":"Universal Stainless & Alloy Products, Inc.",
+            "ticker":"USAP",
+            "exchange":"NASDAQ-GS",
+            "headquarters":"United States"
+        }
+    ]
+}
